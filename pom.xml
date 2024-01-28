@@ -1,0 +1,18 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <!-- NameSpace -->
+    <groupId>ec.edu.epn.saew</groupId>
+    <!-- Nombre del proyecto -->
+    <artifactId>java-maven-text</artifactId>
+    <version>1</version>
+
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/joda-time/joda-time -->
+        <dependency>
+            <groupId>joda-time</groupId>
+            <artifactId>joda-time</artifactId>
+            <version>2.12.5</version>
+        </dependency>
+    </dependencies>
+
+</project>
